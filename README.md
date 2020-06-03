@@ -39,7 +39,7 @@ Venue: Online (**Tencent Meeting**)
 
 Week   | Date | Speaker   | Paper   | Materials
 :---:  | :---: | :---: | :-- | :---:
-1      | 6.3 | 朱静丹 | [Few-shot Text Classification with Distributional Signatures](few_shot_text_classification_with_distributional_signatures.pdf)<br />[Few-shot Natural Language Generation for Task-Oriented Dialog](Few-shot_Natural_Language_Generation_for_Task-Oriented_Dialog.pdf)<br />[On the Relationship between Self-Attention and Convolutional Layers](on_the_relationship_between_self_attention_and_convolutional_layers.pdf)<br />[Reducing Transformer Depth on Demand with Structured Dropout](reducing_transformer_depth_on_demand_with_structured_dropout.pdf) | [Few shot](20200603-few_shot.pdf) 
+1      | 6.3 | 朱静丹 | [[ICLR20]Few-shot Text Classification with Distributional Signatures](paper/few_shot_text_classification_with_distributional_signatures.pdf)<br />[[arxiv]Few-shot Natural Language Generation for Task-Oriented Dialog](paper/Few-shot_Natural_Language_Generation_for_Task-Oriented_Dialog.pdf)<br />[[ICLR20]On the Relationship between Self-Attention and Convolutional Layers](paper/on_the_relationship_between_self_attention_and_convolutional_layers.pdf)<br />[[ICLR20]Reducing Transformer Depth on Demand with Structured Dropout](paper/reducing_transformer_depth_on_demand_with_structured_dropout.pdf) | [Few shot](20200603-few_shot.pdf) 
 2      | 6.10 | 张启凡 |  |
 3      | 6.17 | 浦天岭 |  |  
 4      | 6.24 | 王慧琪 |  |  
