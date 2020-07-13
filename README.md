@@ -44,15 +44,16 @@ Week   | Date | Speaker   | Paper   | Materials
 3      | 6.17 | 浦天岭 | [[EMNLP17] A Soft-label Method for Noise-tolerant Distantly Supervised Relation](paper/distant_supervision/A_Soft_label_Method_for_Noise_tolerant_Distantly_Supervised_Relation.pdf)<br />[[EMNLP19] Improving Distantly-Supervised Relation Extraction with Joint Label Embedding](paper/distant_supervision/Improving_Distantly_Supervised_Relation_Extraction_with_Joint_Label_Embedding.pdf)<br />[[EMNLP15]Distant Supervision for Relation Extraction via Piecewise Convolutional Neural Networks](paper/distant_supervision/Distant_Supervision_for_Relation_Extraction_via_Piecewise_Convolutional_Neural_Networks.pdf) | [Distant supervision](20200617-distant_supervision.pdf) 
 4      | 6.24 | 王慧琪 | [[ACL18] Natural Language to Structured Query Generation via Meta-Learning](paper/meta_learning/[ACL18short]Natural_Language_to_Structured_Query_Generation_via_Meta-Learning.pdf)<br />[[ACL19] Coupling Retrieval and Meta-Learning for Context-Dependent Semantic Parsing](paper/meta_learning/[ACL19]Coupling_Retrieval_and_Meta-Learning_for_Context-Dependent_Semantic_Parsing.pdf) | [Meta Learning](20200624-meta_learning.pdf)  
 5      | 7.1 | 黄嘉祥 | [[WWW18]Unsupervised Anomaly Detection via Variational Auto-Encoder for Seasonal KPIs in Web Applications](paper/vae/Unsupervised_Anomaly_Detection_via_Variational_Auto-Encoder_for_Seasonal_KPIs_in_Web_Applications.pdf)<br />[[BigComp 2019]Learning Representations from Healthcare Time Series Data for Unsupervised Anomaly Detection](paper/vae/accepted_version_BigComp19.pdf) |[VAE](20200701-VAE.pdf)
-6      | 7.8 | 许亮 |  |  
-7| 7.15 | 郭羽翟 | 	|  
-8| 7.22 | 朱静丹 | 	|	 
-9| 7.29 | 张启凡 | 	|  
-10| 8.5 | 浦天岭 | 	|  
-11| 8.12 | 王慧琪 | 	|  
-12| 8.19 | 黄嘉祥 | 	|  
-13| 8.26 | 许亮 | 	|  
-14| 9.2 | 郭羽翟 | 	|  
-15| 9.9 | 朱静丹 | 	|  
+*|Postponed due to **WAIC**|
+6      | 7.15 | 许亮 |  |  
+7| 7.22 | 郭羽翟 | 	|  
+8| 7.29 | 朱静丹 | 	|	 
+9| 8.5 | 张启凡 | 	|  
+10| 8.12 | 浦天岭 | 	|  
+11| 8.19 | 王慧琪 | 	|  
+12| 8.26 | 黄嘉祥 | 	|  
+13| 9.2 | 许亮 | 	|  
+14| 9.9 | 郭羽翟 | 	|  
+15| 9.16 | 朱静丹 | 	|  
 
 
