@@ -47,13 +47,13 @@ Week   | Date | Speaker   | Paper   | Materials
 *|Postponed due to **WAIC**|*||
 6      | 7.15 | 许亮 | [[ICLR17]BI-DIRECTIONAL ATTENTION FLOW FOR MACHINE COMPREHENSION](paper/QA/BI-DIRECTIONAL_ATTENTION_FLOW_FOR_MACHINE_COMPREHENSION.pdf)<br /> [[ACL19]Cognitive Graph for Multi-Hop Reading Comprehension at Scale](paper/QA/Cognitive_Graph_for_Multi-Hop_Reading_Comprehension_at_Scale.pdf)<br /> [[AAAI20]Graph-Based Reasoning over Heterogeneous External Knowledge for Commonsense Question Answering](paper/QA/Graph-Based_Reasoning_over_Heterogeneous_External_Knowledge_for_commonsense_Question_Answering.pdf)<br /> [[SIGMOD20]AliCoCo: Alibaba E-commerce Cognitive Concept Net](paper/QA/kzhu-alicoco.pdf)<br /> [[Engineering 6 (2020)]Progress in Neural NLP: Modeling, Learning, and Reasoning](paper/QA/Progress_in_Neural_NLP_Modeling,Learning,and_Reasoning.pdf)<br /> [[arxiv]Recent Advances in Natural Language Inference: A Survey of Benchmarks, Resources, and Approaches](paper/QA/Storks_et_al_2020_Recent_Advances_in_Natural_Language_Inference.pdf)<br /> | [QA](2020715-Question_Answering.pdf) 
 7      | 7.22 | 郭羽翟 | [[KDD20]Privileged Features Distillation at Taobao Recommendations](paper/rec/kdd/1907.05171.pdf)<br />[[KDD20]Towards Automated Neural Interaction Discovery for Click-Through Rate Prediction](paper/rec/kdd/2007.06434.pdf)<br />[[WWW20]Beyond Clicks: Modeling Multi-Relational Item Graph for Session-Based Target Behavior Prediction](paper/rec/www/2002.07993.pdf) |[Rec](2020722-rec2020.pdf)  
-8| 7.29 | 朱静丹 | 	|	 
-9| 8.5 | 张启凡 | 	|  
-10| 8.12 | 浦天岭 | 	|  
-11| 8.19 | 王慧琪 | 	|  
-12| 8.26 | 黄嘉祥 | 	|  
-13| 9.2 | 许亮 | 	|  
-14| 9.9 | 郭羽翟 | 	|  
-15| 9.16 | 朱静丹 | 	|  
+  *   |             *             |    *    | 	|  
+  8   |            8.5            | 朱静丹  | [[ICLR20]Understanding and Improving Information Transfer in Multi-Task Learning](paper/MTL/understanding_and_improving_information_transfer_in_multi_task_learning.pdf)<br />[[ICLR20]SHARING KNOWLEDGE IN MULTI-TASK DEEP REINFORCEMENT LEARNING](paper/MTL/sharing_knowledge_in_multi_task_deep_reinforcement_learning.pdf)<br />[[arxiv]XTREME: A Massively Multilingual Multi-task Benchmark for Evaluating Cross-lingual Generalization](paper/MTL/XTREME_A_Massively_Multilingual_Multi-task_Benchmark_for_Evaluating_Cross-lingual_Generalization.pdf)<br />[[arxiv]Learning to Branch for Multi-Task Learning](paper/MTL/Learning_to_Branch_for_Multi-Task_Learning.pdf)<br />[[arxiv]Efficient Continuous Pareto Exploration in Multi-Task Learning](paper/MTL/Efficient_Continuous_Pareto_Exploration_in_Multi-Task_Learning.pdf) | [MTL](20200807-multi_task_learning.pdf) 
+  9   |           8.12            | 张启凡  | 	|  
+  10  |           8.19            | 浦天岭  | 	|  
+  11  |           8.26            | 王慧琪  | 	|  
+  12  |            9.2            | 黄嘉祥  | 	|  
+  13  |            9.9            |  许亮   | 	|  
+  14  |           9.16            | 郭羽翟  | 	|  
 
-h
+
