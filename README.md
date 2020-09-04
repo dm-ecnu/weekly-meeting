@@ -1,4 +1,4 @@
-﻿# weekly-meeting
+# weekly-meeting
 Time: **Afternoon, Wednesday  or Thursday or Friday**
 
 Venue: Online (**Tencent Meeting**)
@@ -51,9 +51,18 @@ Week   | Date | Speaker   | Paper   | Materials
 9 | 8.9 | 朱静丹 | [[ICLR20]Understanding and Improving Information Transfer in Multi-Task Learning](paper/MTL/understanding_and_improving_information_transfer_in_multi_task_learning.pdf)<br />[[ICLR20]SHARING KNOWLEDGE IN MULTI-TASK DEEP REINFORCEMENT LEARNING](paper/MTL/sharing_knowledge_in_multi_task_deep_reinforcement_learning.pdf)<br />[[arxiv]XTREME: A Massively Multilingual Multi-task Benchmark for Evaluating Cross-lingual Generalization](paper/MTL/XTREME_A_Massively_Multilingual_Multi-task_Benchmark_for_Evaluating_Cross-lingual_Generalization.pdf)<br />[[arxiv]Learning to Branch for Multi-Task Learning](paper/MTL/Learning_to_Branch_for_Multi-Task_Learning.pdf)<br />[[arxiv]Efficient Continuous Pareto Exploration in Multi-Task Learning](paper/MTL/Efficient_Continuous_Pareto_Exploration_in_Multi-Task_Learning.pdf) |[MTL](20200807-multi_task_learning.pdf) 
 10 | 8.14 | 张启凡 | [[IEEE Signal Process.July.17]Geometric Deep Learning: Going beyond Euclidean data](paper/GNN/lecun_Euclidean_data.pdf)<br />[[arxiv19] A Comprehensive Survey on Graph Neural Networks](paper/GNN/1901_gnn_survey.pdf) | [GNN_basic](20200814-gnn.pdf) 
 11 | 8.19 | 浦天岭 | [[IJCAI19] CNN-Based Chinese NER with Lexicon Rethinking](paper/About_lattice/CNN_Based_Chinese_NER_with_Lexicon_Rethinking.pdf) <br /> [[EMNLP19] Leverage Lexical Knowledge for Chinese Named Entity Recognition via Collaborative Graph Network](paper/About_lattice/Leverage_Lexical_Knowledge_for_Chinese_Named_Entity_Recognition_via.pdf) <br />[[ACL20] FLAT: Chinese NER Using Flat-Lattice Transformer](paper/About_lattice/FLAT_Chinese_NER_Using_Flat_Lattice_Transformer.pdf) <br />[[ACL20] Simplify the Usage of Lexicon in Chinese NER](paper/About_lattice/Simplify_the_Usage_of_Lexicon_in_Chinese_NER.pdf) | [Lattice about](20200820-lattice_about.pdf)
-12 | 8.26 | 王慧琪 |  | 
-13 | 9.2 | 黄嘉祥 |  | 
-14 | 9.9 | 许亮 |  | 
-15 | 9.16 | 郭羽翟 |  | 
+12 | 8.28 | 林浩 | [[ACL20] Contextual Embeddings When Are They Worth It](paper/bert/Contextual_Embeddings_When_Are_They_Worth_It.pdf) <br /> [[W-NUT@EMNLP 2019] Exploiting BERT for End-to-End Aspect-based Sentiment Analysis](paper/bert/Exploiting_BERT_for_End-to-End_Aspect-based_Sentiment_Analysis.pdf) <br />[[arxiv] Fine-tune BERT for Extractive Summarization](paper/bert/Fine-tune_BERT_for_Extractive_Summarization.pdf) | [Recent work](20200828-recent_work_bert.pdf) 
+13 | 9.6 | 王慧琪 |  | 
+14 | 9.13 | 黄嘉祥 |  | 
+15 | 9.16 | 许亮 |  | 
+16 | 9.23 | 郭羽翟 |  | 
+17 | 9.30 | 朱静丹 |  | 
+18 | 10.9 | 张启凡 |  | 
+19 | 10.16 | 浦天岭 |  | 
+20 | 10.23 | 林浩 |  | 
+21 | 10.30 | 王慧琪 |  | 
+22 | 11.6 | 黄嘉祥 |  | 
+23 | 11.13 | 许亮 |  | 
+24 | 11.20 | 郭羽翟 |  | 
 
 
