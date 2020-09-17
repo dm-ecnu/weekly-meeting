@@ -54,10 +54,10 @@ Week   | Date | Speaker   | Paper   | Materials
 12 | 8.28 | 林浩 | [[ACL20] Contextual Embeddings When Are They Worth It](paper/bert/Contextual_Embeddings_When_Are_They_Worth_It.pdf) <br /> [[W-NUT@EMNLP 2019] Exploiting BERT for End-to-End Aspect-based Sentiment Analysis](paper/bert/Exploiting_BERT_for_End-to-End_Aspect-based_Sentiment_Analysis.pdf) <br />[[arxiv] Fine-tune BERT for Extractive Summarization](paper/bert/Fine-tune_BERT_for_Extractive_Summarization.pdf) | [Recent work](20200828-recent_work_bert.pdf) 
 13 | 9.6 | 王慧琪 | [[KDD20] Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks](paper/time_series/Connecting_the_Dots_Multivariate_Time_Series_Forec.pdf) <br /> [[KDD20] HetETA: Heterogeneous Information Network Embedding for Estimating Time of Arrival](paper/time_series/HetETA_Heterogeneous_Information_Network_Embedding_for_Estimating_Time_of_Arrival.pdf) | [Time Series](20200906-time_series.pdf) 
 14 | 9.13 | 黄嘉祥 |  | 
-15 | 9.16 | 许亮 |  | 
-16 | 9.23 | 郭羽翟 |  | 
-17 | 9.30 | 朱静丹 |  | 
-18 | 10.9 | 张启凡 |  | 
+15 | 9.17 | 张启凡 | [[KDD20]MoFlow: An Invertible Flow Model for Generating Molecular Graphs](paper/drug_discovery/moflow.pdf) | [MoFlow](20200917-zqf.pdf) 
+16 | 9.23 | 许亮 |  | 
+17 | 9.30 | 郭羽翟 |  | 
+18 | 10.9 | 朱静丹 |  | 
 19 | 10.16 | 浦天岭 |  | 
 20 | 10.23 | 林浩 |  | 
 21 | 10.30 | 王慧琪 |  | 
