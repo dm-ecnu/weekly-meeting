@@ -56,7 +56,7 @@ Week   | Date | Speaker   | Paper   | Materials
 13 | 9.13 | 黄嘉祥 | [[KDD20]General-Purpose User Embeddings based on Mobile App Usage](paper/embedding&classification/General-Purpose_User_Embeddings_based_on_Mobile_App_Usage.pdf)<br />[[KDD20]Recurrent Halting Chain for Early Multi-label Classification](paper/embedding&classification/Recurrent_Halting_Chain_for_Early_Multi-label_Classification.pdf)<br />[[KDD20]Time-Aware User Embeddings as a Service](paper/embedding&classification/Time-Aware_User_Embeddings_as_a_Service.pdf)| [Embedding&Classification](20200913-embedding&classification.pdf)
 14 | 9.17 | 张启凡 | [[KDD20]MoFlow: An Invertible Flow Model for Generating Molecular Graphs](paper/drug_discovery/moflow.pdf) | [MoFlow](20200917-zqf.pdf) 
 15 | 9.24 | 许亮 |  | 
-16 | 9.30 | 郭羽翟 |  | 
+16 | 9.30 | 朱静丹 & others |  | [张启凡](20200930-zqf.pdf) 
 17 | 10.10 | 朱静丹 |  | 
 18 | 10.15 | 浦天岭 |  | 
 19 | 10.22 | 林浩 |  | 
