@@ -56,8 +56,8 @@ Week   | Date | Speaker   | Paper   | Materials
 13 | 9.13 | 黄嘉祥 | [[KDD20]General-Purpose User Embeddings based on Mobile App Usage](paper/embedding&classification/General-Purpose_User_Embeddings_based_on_Mobile_App_Usage.pdf)<br />[[KDD20]Recurrent Halting Chain for Early Multi-label Classification](paper/embedding&classification/Recurrent_Halting_Chain_for_Early_Multi-label_Classification.pdf)<br />[[KDD20]Time-Aware User Embeddings as a Service](paper/embedding&classification/Time-Aware_User_Embeddings_as_a_Service.pdf)| [Embedding&Classification](20200913-embedding&classification.pdf)
 14 | 9.17 | 张启凡 | [[KDD20]MoFlow: An Invertible Flow Model for Generating Molecular Graphs](paper/drug_discovery/moflow.pdf) | [MoFlow](20200917-zqf.pdf) 
 15 | 9.24 | 许亮 |  | 
-16 | 9.30 | 朱静丹 & others |  | [张启凡](20200930-zqf.pdf) 
-17 | 10.10 | 朱静丹 |  | 
+16 | 9.30 | 朱静丹 & others | [[ACL20]TAPAS: Weakly Supervised Table Parsing via Pre-training](paper/TAPAS.pdf)<br />[[ACL20]TABERT: Pretraining for Joint Understanding of Textual and Tabular Data](paper/TABERT.pdf)<br />[[AAAI19]ColNet: Embedding the Semantics of Web Tables for Column Type Prediction](paper/ColNet-Embedding_the_Semantics_of_Web_Tables_for_Column_Type_Prediction.pdf)<br />[[IJCAI19]Learning Semantic Annotations for Tabular Data](paper/Learning_Semantic_Annotations_for_Tabular_Data.pdf) | [朱静丹](20200930-zjd.pdf)<br />[张启凡](20200930-zqf.pdf) 
+17 | 10.10 | 郭羽翟 |  | 
 18 | 10.15 | 浦天岭 |  | 
 19 | 10.22 | 林浩 |  | 
 20 | 10.29 | 王慧琪 |  | 
