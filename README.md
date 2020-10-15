@@ -58,7 +58,7 @@ Week   | Date | Speaker   | Paper   | Materials
 15 | 9.24 | 许亮 | [Recent Advances in Natural Language Inference:A Survey of Benchmarks, Resources, and Approaches](paper/QA/Storks_et_al_2020_Recent_Advances_in_Natural_Language_Inference.pdf) | [Textual Inference](20200924-textual_inference.pdf)
 16 | 9.30 | 朱静丹 & others | [[ACL20]TAPAS: Weakly Supervised Table Parsing via Pre-training](paper/TAPAS.pdf)<br />[[ACL20]TABERT: Pretraining for Joint Understanding of Textual and Tabular Data](paper/TABERT.pdf)<br />[[AAAI19]ColNet: Embedding the Semantics of Web Tables for Column Type Prediction](paper/ColNet-Embedding_the_Semantics_of_Web_Tables_for_Column_Type_Prediction.pdf)<br />[[IJCAI19]Learning Semantic Annotations for Tabular Data](paper/Learning_Semantic_Annotations_for_Tabular_Data.pdf) | [朱静丹](20200930-zjd.pdf)<br />[张启凡](20200930-zqf.pdf) 
 17 | 10.10 | 郭羽翟 |  | 
-18 | 10.15 | 浦天岭 |  | 
+18 | 10.15 | 浦天岭 |   [[ACL20]Improving Multi-hop Question Answering over Knowledge Graphs using Knowledge Base Embeddings](paper/KG/KGQA.pdf)<br />[[AAAI20]Knowledge Graph Alignment Network with Gated Multi-hop Neighborhood Aggregation](paper/KG/Knowledge_Graph_Alignment_Network_with_Gated_Multi-hop_Neighborhood_Aggregation.pdf.pdf)<br />[[EMNLP]Universal Natural Language Processing with Limited Annotations Try Few-shot Textual Entailment as a start](paper/KG/Universal_Natural_Language_Processing_with_Limited Annotations_Try_Few-shot_Textual_Entailment_as_a_start.pdf)<br />|[KG](20201015-ptl.pdf)
 19 | 10.22 | 林浩 |  | 
 20 | 10.29 | 王慧琪 |  | 
 21 | 11.5 | 黄嘉祥 |  | 
