@@ -60,9 +60,15 @@ Week   | Date | Speaker   | Paper   | Materials
 17 | 10.10 | 郭羽翟 | [[CIKM2020]S^3Rec:Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization](paper/cl/2008.07873.pdf)<br />[[ICML]A Simple Framework for Contrastive Learning of Visual Representations](paper/cl/ICML-2020-a-simple-framework-for-contrastive-learning-of-visual-representations-Paper)<br />[[Recsys2020]etc.](/paper/cl/recsys20.zip) |[Rec(CL)](20201010-gyd.pdf) 
 18 | 10.15 | 浦天岭 |   [[ACL20]Improving Multi-hop Question Answering over Knowledge Graphs using Knowledge Base Embeddings](paper/KG/KGQA.pdf)<br />[[AAAI20]Knowledge Graph Alignment Network with Gated Multi-hop Neighborhood Aggregation](paper/KG/Knowledge_Graph_Alignment_Network_with_Gated_Multi-hop_Neighborhood_Aggregation.pdf)<br />[[EMNLP]Universal Natural Language Processing with Limited Annotations Try Few-shot Textual Entailment as a start](paper/KG/Universal_Natural_Language_Processing_with_Limited_Annotations_Try_Few_shot_Textual_Entailment_as_a_start.pdf)<br />|[KG](20201015-ptl.pdf)
 19 | 10.22 | 林浩 |  | 
-20 | 10.29 | 王慧琪 |  | 
-21 | 11.5 | 黄嘉祥 |  | 
-22 | 11.12 | 许亮 |  | 
-23 | 11.19 | 郭羽翟 |  | 
+20 | 10.29 | 王慧琪 | [[SIGIR20] How to Retrain Recommender System? A Sequential Meta-Learning Method](paper/recommendation/[SIGIR20]How_to_Retrain_Recommender_System_A_Sequential_Meta-Learning_Method.pdf) <br /> [[SIGIR20] CATN: Cross-Domain Recommendation for Cold-Start Users via Aspect Transfer Network](paper/recommendation/[SIGIR20]CATN_Cross-Domain_Recommendation_for_Cold-Start_Users_via_Aspect_Transfer_Network.pdf) | [Recommendation](20201029-whq.pdf) 
+*| Postponed |*||
+21 | 11.19 | 黄嘉祥 |  | 
+22 | 11.26 | 许亮 |  | 
+23 | 12.03 | 郭羽翟 |  | 
+24 | 12.10 | 朱静丹 |  | 
+25 | 12.17 | 张启凡 |  | 
+26 | 12.24 | 浦天岭 |  | 
+27 | 12.31 | 林浩 |  | 
+28 | 01.07 | 王慧琪 |  | 
 
 
