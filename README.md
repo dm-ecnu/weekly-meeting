@@ -65,11 +65,17 @@ Week   | Date | Speaker   | Paper   | Materials
 21 | 11.19 | 黄嘉祥 |  | 
 22 | 11.26 | 朱静丹 | [[TACL20]KEPLER A Unified Model for Knowledge Embedding and Pre-trained Language Representation](paper/PTMs/KEPLER_A_Unified_Model_for_Knowledge_Embedding_and_Pre-trained_Language_Representation.pdf)<br />[[AAAI20]ERNIE 2.0 A Continual Pre-Training Framework for Language Understanding](paper/PTMs/ERNIE_2.0_A_Continual_Pre-Training_Framework_for_Language_Understanding.pdf)<br />[[EMNLP20]BERT-MK Integrating Graph Contextualized Knowledge into Pre-trained Language Models](paper/PTMs/BERT-MK_Integrating_Graph_Contextualized_Knowledge_into_Pre-trained_Language_Models.pdf) | [PTMs](20201126-PTMs.pdf) 
 23 | 12.03 | 郭羽翟 |  | 
-24 | 12.11 | 张启凡 | [[Chemical Science] MoleculeNet: a benchmark for molecular machine learning](paper/drug_discovery/c7sc02664a.pdf)<br />[[Chemical Science]Large-scale comparison of machine learning methods for drug target prediction on ChEMBL(paper/drug_discovery/c8sc00148k.pdf)<br />[[Bioinformatics] Learning from the ligand: using ligand-based features to improve binding affinity prediction](paper/drug_discovery/btz665.pdf)<br />[[NeurIPS20] Self-Supervised Graph Transformer on Large-Scale Molecular Data](paper/drug_discovery/2007.02835.pdf) | [GNN_application](20201211-zqf.pdf) 
-25 | 12.17 | 张启凡 |  | 
+24 | 12.11 | 张启凡 | [[Chemical Science] MoleculeNet: a benchmark for molecular machine learning](paper/drug_discovery/c7sc02664a.pdf)<br />[[Chemical Science]Large-scale comparison of machine learning methods for drug target prediction on ChEMBL](paper/drug_discovery/c8sc00148k.pdf)<br />[[Bioinformatics] Learning from the ligand: using ligand-based features to improve binding affinity prediction](paper/drug_discovery/btz665.pdf)<br />[[NeurIPS20] Self-Supervised Graph Transformer on Large-Scale Molecular Data](paper/drug_discovery/2007.02835.pdf) | [GNN_application](20201211-zqf.pdf) 
+25 | 12.17 | 许亮 |  | 
 26 | 12.24 | 浦天岭 |  | 
 27 | 12.31 | 林浩 |  | 
 28 | 01.07 | 王慧琪 |  | 
 29 | 01.14 | 黄嘉祥 |  | 
+30 | 01.21 | 朱静丹 |  | 
+33 | 01.28 | 张启凡 |  | 
+31 | 02.04 | 浦天岭 |  | 
+32 | 02.11 | 林浩 |  | 
+33 | 02.18 | 王慧琪 |  | 
+34 | 02.25 | 黄嘉祥 |  | 
 
 
