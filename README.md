@@ -68,7 +68,7 @@ Week   | Date | Speaker   | Paper   | Materials
 24 | 12.11 | 张启凡 | [[Chemical Science] MoleculeNet: a benchmark for molecular machine learning](paper/drug_discovery/c7sc02664a.pdf)<br />[[Chemical Science]Large-scale comparison of machine learning methods for drug target prediction on ChEMBL](paper/drug_discovery/c8sc00148k.pdf)<br />[[Bioinformatics] Learning from the ligand: using ligand-based features to improve binding affinity prediction](paper/drug_discovery/btz665.pdf)<br />[[NeurIPS20] Self-Supervised Graph Transformer on Large-Scale Molecular Data](paper/drug_discovery/2007.02835.pdf) | [GNN_application](20201211-zqf.pdf) 
 25 | 12.17 | 浦天岭 |  [[EMNLP2020] SynSetExpan: An Iterative Framework for Joint EntitySet Expansion and Synonym Discovery](paper/synonym/SynSetExpan_An_Iterative_Framework_for_Joint_Enti.pdf)<br />[[arvix] Bootleg: Chasing the Tail with Self-Supervised Named Entity Disambiguation](paper/synonym/Bootleg_Chasing_the_Tail_with_Self_Supervised_Nam.pdf)<br />[[IJCAI2020] Global Structure and Local Semantics-Preserved Embeddings for Entity Alignment](paper/synonym/Global_Structure_and_Local_Semantics_Preserved_Emb.pdf)<br /> | [Synonym](20201217-ptl.pdf) 
 26 | 12.24 | 林浩 |  | 
-27 | 12.31 | 王慧琪 |  | 
+27 | 12.31 | 王慧琪 | [[AAAI21] Cold-start Sequential Recommendation via Meta Learner](paper/recommendation/Cold-start_Sequential_Recommendation_via_Meta_Learner.pdf) <br /> [[AAAI21] Self-Supervised Hypergraph Convolutional Networks for Session-based Recommendation](paper/recommendation/Self-Supervised_Hypergraph_Convolutional_Networks_for_Session-based_Recommendation.pdf) | [Recommendation](20201231-whq.pdf) 
 28 | 01.07 | 黄嘉祥 |  | 
 29 | 01.14 | 朱静丹 |  | 
 30 | 01.21 | 张启凡 |  | 
