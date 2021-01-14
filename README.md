@@ -70,8 +70,8 @@ Week   | Date | Speaker   | Paper   | Materials
 26 | 12.24 | 林浩 |  | 
 27 | 12.31 | 王慧琪 | [[AAAI21] Cold-start Sequential Recommendation via Meta Learner](paper/recommendation/Cold-start_Sequential_Recommendation_via_Meta_Learner.pdf) <br /> [[AAAI21] Self-Supervised Hypergraph Convolutional Networks for Session-based Recommendation](paper/recommendation/Self-Supervised_Hypergraph_Convolutional_Networks_for_Session-based_Recommendation.pdf) | [Recommendation](20201231-whq.pdf) 
 28 | 01.07 | 黄嘉祥 |  | 
-29 | 01.14 | 朱静丹 |  | 
-30 | 01.21 | 张启凡 |  | 
+29 | 01.14 | 张启凡 | [[ICLR (Workshop) 15] NICE: Non-linear Independent Components Estimation](paper/flow/NICE.pdf)<br />[[ICLR 17] Density estimation using Real NVP](paper/flow/RealNVP.pdf)<br />[[NeurIPS 18] Glow: Generative Flow with Invertible 1x1 Convolutions](paper/flow/Glow.pdf)<br />[[ICLR 20] GraphAF: a Flow-based Autoregressive Model for Molecular Graph Generation](paper/flow/GraphAF.pdf) | [Flow-based models](20210114-zqf.pdf) 
+30 | 01.21 | 朱静丹 |  | 
 31 | 01.28 | 浦天岭 |  | 
 32 | 02.4 | 林浩 |  | 
 33 | 02.11 | 王慧琪 |  | 
