@@ -1,7 +1,7 @@
 # weekly-meeting
-Time: **Afternoon, Wednesday  or Thursday or Friday**
+Time: **10am-12am, Thursday, 2021**
 
-Venue: Online (**Tencent Meeting**)
+Venue: Online (**Tencent Meeting**), B914
 
 
 
@@ -73,8 +73,22 @@ Week   | Date | Speaker   | Paper   | Materials
 29 | 01.14 | 张启凡 | [[ICLR (Workshop) 15] NICE: Non-linear Independent Components Estimation](paper/flow/NICE.pdf)<br />[[ICLR 17] Density estimation using Real NVP](paper/flow/RealNVP.pdf)<br />[[NeurIPS 18] Glow: Generative Flow with Invertible 1x1 Convolutions](paper/flow/Glow.pdf)<br />[[ICLR 20] GraphAF: a Flow-based Autoregressive Model for Molecular Graph Generation](paper/flow/GraphAF.pdf) | [Flow-based models](20210114-zqf.pdf) 
 30 | 01.21 | 朱静丹 | [[AAAI2021]LRC-BERT: Latent-representation Contrastive Knowledge Distillation for Natural Language Understanding](/paper/distilling/LRC-BERT_Latent-representation_Contrastive_Knowledge_Distillation_for_Natural_Language_Understanding.pdf)<br />[[Coling2020]Logic-guided Semantic Representation Learning for Zero-Shot Relation Classification](/paper/distilling/Logic-guided_Semantic_Representation_Learning_for_Zero-Shot_Relation.pdf)<br />[[KDD2020]LayoutLMv2: Multi-modal Pre-training for Visually-Rich Document Understanding](/paper/distilling/LayoutLMv2_Multi-modal_Pre-training_for_Visually-Rich_Document_Understanding.pdf) | [distilling](20200121-zjd.pdf) 
 31 | 01.28 | 浦天岭 |  [[VLDB2020]A benchmarking study of embedding-based entity alignment for knowledge graphs](/paper/KG/A_benchmarking_study_of_embedding_based_entity_ali.pdf) | [EA](20210128-ptl.pdf)
-32 | 02.4 | 林浩 |  | 
-33 | 02.11 | 王慧琪 |  | 
-34 | 02.18 | 黄嘉祥 |  | 
-
-
+32 | 03.04 | 林浩 |  | 
+33 | 03.11 | 王慧琪 |  | 
+34 | 03.18 | 黄嘉祥 |  | 
+35 | 03.25 | 张启凡 |  | 
+36 | 04.01 | 朱静丹 |  | 
+37 | 04.08 | 浦天岭 |  | 
+38 | 04.15 | 林浩 |  | 
+39 | 04.22 | 王慧琪 |  | 
+40 | 04.29 | 黄嘉祥 |  | 
+41 | 05.06 | 张启凡 |  | 
+42 | 05.13 | 朱静丹 |  | 
+43 | 05.20 | 浦天岭 |  | 
+44 | 05.27 | 林浩 |  | 
+45 | 06.03 | 王慧琪 |  | 
+46 | 06.10 | 黄嘉祥 |  | 
+47 | 06.17 | 张启凡 |  | 
+48 | 06.24 | 朱静丹 |  | 
+49 | 07.01 | 浦天岭 |  | 
+50 | 07.08 | 林浩 |  | 
