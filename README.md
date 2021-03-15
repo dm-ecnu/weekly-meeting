@@ -74,7 +74,7 @@ Week   | Date | Speaker   | Paper   | Materials
 30 | 01.21 | 朱静丹 | [[AAAI2021]LRC-BERT: Latent-representation Contrastive Knowledge Distillation for Natural Language Understanding](/paper/distilling/LRC-BERT_Latent-representation_Contrastive_Knowledge_Distillation_for_Natural_Language_Understanding.pdf)<br />[[Coling2020]Logic-guided Semantic Representation Learning for Zero-Shot Relation Classification](/paper/distilling/Logic-guided_Semantic_Representation_Learning_for_Zero-Shot_Relation.pdf)<br />[[KDD2020]LayoutLMv2: Multi-modal Pre-training for Visually-Rich Document Understanding](/paper/distilling/LayoutLMv2_Multi-modal_Pre-training_for_Visually-Rich_Document_Understanding.pdf) | [distilling](20200121-zjd.pdf) 
 31 | 01.28 | 浦天岭 |  [[VLDB2020]A benchmarking study of embedding-based entity alignment for knowledge graphs](/paper/KG/A_benchmarking_study_of_embedding_based_entity_ali.pdf) | [EA](20210128-ptl.pdf)
 32 | 03.04 | 林浩 | [[IJCAI2020] A New Attention Mechanism to Classify Multivariate Time Series](paper/time_series/A_New_Attention_Mechanism_to_Classify_Multivariate_Time_Series.pdf) | [MTS](20210304-MTS.pdf)
-33 | 03.11 | 王慧琪 |  | 
+33 | 03.11 | 王慧琪 | [[arxiv] DADNN: Multi-Scene CTR Prediction via Domain-Aware Deep Neural Network](paper/recommendation/DADNN_Multi-Scene_CTR_Prediction_via_Domain-Aware_Deep_Neural_Network.pdf) | [Recommendation](20210311-whq.pdf)
 34 | 03.18 | 黄嘉祥 |  | 
 35 | 03.25 | 张启凡 |  | 
 36 | 04.01 | 朱静丹 |  | 
