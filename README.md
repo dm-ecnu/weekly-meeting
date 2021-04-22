@@ -78,17 +78,17 @@ Week   | Date | Speaker   | Paper   | Materials
 34 | 03.18 | 黄嘉祥 |  | 
 35 | 03.25 | 张启凡 | [[ICML2018]Junction Tree Variational Autoencoder for Molecular Graph Generation](paper/vae/jin18a.pdf) | [JT-VAE](20210325-zqf.pdf) 
 36 | 04.01 | 朱静丹 | [[AAAI2021]Label Confusion Learning to Enhance Text Classification Models](paper/match/Label_Confusion_Learning_to_Enhance_Text_Classification_Models.pdf)<br />[[AAAI2021]Making the Relation Matters: Relation of Relation Learning Network for Sentence Semantic Matching](paper/match/Making_the_Relation_Matters_Relation_of_Relation_Learning_Network_for_Sentence_Semantic.pdf) | [Match](20210408-ZJD.pdf) 
-37 | 04.08 | 浦天岭 |  | 
-38 | 04.15 | 林浩 |  | 
-39 | 04.22 | 王慧琪 |  | 
-40 | 04.29 | 黄嘉祥 |  | 
-41 | 05.06 | 张启凡 |  | 
-42 | 05.13 | 朱静丹 |  | 
-43 | 05.20 | 浦天岭 |  | 
-44 | 05.27 | 林浩 |  | 
-45 | 06.03 | 王慧琪 |  | 
-46 | 06.10 | 黄嘉祥 |  | 
-47 | 06.17 | 张启凡 |  | 
-48 | 06.24 | 朱静丹 |  | 
-49 | 07.01 | 浦天岭 |  | 
-50 | 07.08 | 林浩 |  | 
+* | Postponed | * |  | 
+37 | 04.15 | 浦天岭 |  | 
+38 | 04.22 | 林浩 |  | 
+39 | 04.29 | 王慧琪 |  | 
+40 | 05.06 | 张启凡 |  | 
+41 | 05.13 | 朱静丹 |  | 
+42 | 05.20 | 浦天岭 |  | 
+43 | 05.27 | 林浩 |  | 
+44 | 06.03 | 王慧琪 |  | 
+45 | 06.10 | 杨宇荃 |  | 
+46 | 06.17 | 张启凡 |  | 
+47 | 06.24 | 朱静丹 |  | 
+48 | 07.01 | 浦天岭 |  | 
+49 | 07.08 | 林浩 |  | 
