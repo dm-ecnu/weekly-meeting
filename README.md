@@ -79,7 +79,7 @@ Week   | Date | Speaker   | Paper   | Materials
 35 | 03.25 | 张启凡 | [[ICML2018]Junction Tree Variational Autoencoder for Molecular Graph Generation](paper/vae/jin18a.pdf) | [JT-VAE](20210325-zqf.pdf) 
 36 | 04.01 | 朱静丹 | [[AAAI2021]Label Confusion Learning to Enhance Text Classification Models](paper/match/Label_Confusion_Learning_to_Enhance_Text_Classification_Models.pdf)<br />[[AAAI2021]Making the Relation Matters: Relation of Relation Learning Network for Sentence Semantic Matching](paper/match/Making_the_Relation_Matters_Relation_of_Relation_Learning_Network_for_Sentence_Semantic.pdf) | [Match](20210408-ZJD.pdf) 
 * | Postponed | * |  | 
-37 | 04.15 | 浦天岭 | [[EMNLP2020]Towards Medical Machine Reading Comprehension with Structural Knowledge and Plain Text](paper/mrc/Towards_Medical_Machine_Reading_Comprehension_with.pdf)<br />[[MDPI]A Survey on Machine Reading Comprehension—Tasks, Evaluation Metrics and Benchmark Datasets](paper/mrc/A_Survey_on_Machine_Reading_Comprehension_Tasks.pdf) | [MRC](20210408-mrc.pdf)  
+37 | 04.15 | 浦天岭 | [[EMNLP2020]Towards Medical Machine Reading Comprehension with Structural Knowledge and Plain Text](paper/mrc/Towards_Medical_Machine_Reading_Comprehension_with.pdf)<br />[[MDPI]A Survey on Machine Reading Comprehension—Tasks, Evaluation Metrics and Benchmark Datasets](paper/mrc/A_Survey_on_Machine_Reading_Comprehension_Tasks.pdf) | [MRC](20210408-mrc.pdf)  |
 38 | 04.22 | 林浩 |  | 
 39 | 04.29 | 王慧琪 |  | 
 40 | 05.06 | 张启凡 |  | 
