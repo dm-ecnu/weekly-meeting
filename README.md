@@ -81,7 +81,7 @@ Week   | Date | Speaker   | Paper   | Materials
 Postponed | Postponed | * |  | 
 37 | 04.15 | 浦天岭 | [[EMNLP2020]Towards Medical Machine Reading Comprehension with Structural Knowledge and Plain Text](paper/mrc/Towards_Medical_Machine_Reading_Comprehension_with.pdf)<br />[[MDPI2021]A Survey on Machine Reading Comprehension—Tasks, Evaluation Metrics and Benchmark Datasets](paper/mrc/A_Survey_on_Machine_Reading_Comprehension_Tasks.pdf) | [MRC](20210408-mrc.pdf) 
 38 | 04.22 | 林浩 |  | 
-39 | 04.29 | 王慧琪 |  | 
+39 | 04.29 | 王慧琪 | [[WWW2021]Task-adaptive Neural Process for User Cold-Start Recommendation](paper/recommendation/Task-adaptive_Neural_Process_for_User_Cold-Start_Recommendation.pdf)<br />[[CIKM2020]MiNet: Mixed Interest Network for Cross-Domain Click-Through Rate Prediction](paper/recommendation/MiNet_Mixed_Interest_Network_for_Cross-Domain_Click-Through_Rate_Prediction.pdf) | [Recommendation](20210429-whq.pdf)
 40 | 05.06 | 张启凡 |  | 
 41 | 05.13 | 朱静丹 |  | 
 42 | 05.20 | 浦天岭 |  | 
