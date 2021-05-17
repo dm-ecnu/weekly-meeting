@@ -83,7 +83,7 @@ Postponed | Postponed | * |  |
 38 | 04.22 | 林浩 |  | 
 39 | 04.29 | 王慧琪 | [[WWW2021]Task-adaptive Neural Process for User Cold-Start Recommendation](paper/recommendation/Task-adaptive_Neural_Process_for_User_Cold-Start_Recommendation.pdf)<br />[[CIKM2020]MiNet: Mixed Interest Network for Cross-Domain Click-Through Rate Prediction](paper/recommendation/MiNet_Mixed_Interest_Network_for_Cross-Domain_Click-Through_Rate_Prediction.pdf) | [Recommendation](20210429-whq.pdf)
 40 | 05.06 | 张启凡 | [Stochastic Normalizing Flows](paper/flow/NeurIPS-2020-stochastic-normalizing-flows-Paper.pdf) | [SNF](20210506-zqf.pdf) 
-41 | 05.13 | 朱静丹 |  | 
+41 | 05.13 | 朱静丹 | [[NeurIPS2018]Embedding Logical Queries on Knowledge Graphs](paper/kg_reasoning/Embedding_Logical_Queries_on_Knowledge_Graphs.pdf)<br />[[ICLR2020]Query2box: Reasoning over Knowledge Graphs in Vector Space using Box Embeddings](paper/kg_reasoning/query2box_reasoning_over_knowledge_graphs_in_vector_space_using_box_embeddings.pdf) | [KG-Reasoning](20210513-ZJD.pdf) 
 42 | 05.20 | 浦天岭 |  | 
 43 | 05.27 | 林浩 |  | 
 44 | 06.03 | 王慧琪 |  | 
