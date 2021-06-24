@@ -88,7 +88,7 @@ Postponed | Postponed | * |  |
 Postponed | Postponed | * |  | 
 43 | 06.03 | 林浩 |  | 
 44 | 06.10 | 王慧琪 | [[TKDE2020]Multimodal and Contrastive Learning for Click Fraud Detection](paper/fraud/Graph_Neural_Network_for_Fraud_Detection_via_Spatial-temporal_Attention.pdf)<br />[[WWW2021]Multimodal and Contrastive Learning for Click Fraud Detection](paper/fraud/Multimodal_and_Contrastive_Learning_for_Click_Fraud_Detection.pdf) | [Fraud](20210610-whq.pdf)
-45 | 06.17 | 杨宇荃 |  | 
+45 | 06.17 | 杨宇荃 | [[AAAI2021]FairRec: Fairness-aware News Recommendation with Decomposed Adversarial Learning](paper/fair_recommendation/FairRec Fairness-aware News Recommendation withDecomposed Adversarial Learning.pdf)<br /> | [Fair_Recommendation](20210624-yyq.pdf) 
 46 | 06.24 | 张启凡 |  | 
 47 | 07.01 | 朱静丹 |  | 
 48 | 07.08 | 浦天岭 |  | 
