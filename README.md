@@ -90,7 +90,7 @@ Postponed | Postponed | * |  |
 44 | 06.10 | 王慧琪 | [[TKDE2020]Multimodal and Contrastive Learning for Click Fraud Detection](paper/fraud/Graph_Neural_Network_for_Fraud_Detection_via_Spatial-temporal_Attention.pdf)<br />[[WWW2021]Multimodal and Contrastive Learning for Click Fraud Detection](paper/fraud/Multimodal_and_Contrastive_Learning_for_Click_Fraud_Detection.pdf) | [Fraud](20210610-whq.pdf)
 45 | 06.17 | 杨宇荃 | [[AAAI2021]FairRec: Fairness-aware News Recommendation with Decomposed Adversarial Learning](paper/fair_recommendation/FairRec.pdf)<br /> | [Fair_Recommendation](20210624-yyq.pdf) 
 46 | 06.24 | 张启凡 |  | 
-47 | 07.01 | 朱静丹 |  | 
+47 | 07.01 | 朱静丹 | [[SIGIR2021]Dual-View Distilled BERT for Sentence Embedding](paper/distilling/Dual-View_Distilled_BERT_for_Sentence_Embedding.pdf)<br />[[ACL2019]BAM! Born-Again Multi-Task Networks for Natural Language Understanding](paper/distilling/BAM_Born-Again_Multi-Task_Networks_for_Natural_Language_Understanding.pdf) | [Bert-distilling](20210701-ZJD.pdf) 
 48 | 07.08 | 浦天岭 |  | 
 49 | 07.15 | 林浩 |  | 
 
